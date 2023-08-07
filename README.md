@@ -1,6 +1,6 @@
 # Desafiointelitrader
 
-# Aplicações criadas para proposta de desafio intelitrader
+# Aplicações criadas em C# para proposta de desafio intelitrader
 
 * Desafio 1 - Crie uma aplicação que recebe dois arquivos e gera um terceiro arquivo contendo as linhas contidas nos 2 arquivos recebidos (a interseção).
 
