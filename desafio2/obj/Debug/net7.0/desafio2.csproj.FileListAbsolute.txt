@@ -1,0 +1,15 @@
+/home/zumachxd/desafioInteliTrader/desafio2/bin/Debug/net7.0/desafio2
+/home/zumachxd/desafioInteliTrader/desafio2/bin/Debug/net7.0/desafio2.deps.json
+/home/zumachxd/desafioInteliTrader/desafio2/bin/Debug/net7.0/desafio2.runtimeconfig.json
+/home/zumachxd/desafioInteliTrader/desafio2/bin/Debug/net7.0/desafio2.dll
+/home/zumachxd/desafioInteliTrader/desafio2/bin/Debug/net7.0/desafio2.pdb
+/home/zumachxd/desafioInteliTrader/desafio2/obj/Debug/net7.0/desafio2.csproj.AssemblyReference.cache
+/home/zumachxd/desafioInteliTrader/desafio2/obj/Debug/net7.0/desafio2.GeneratedMSBuildEditorConfig.editorconfig
+/home/zumachxd/desafioInteliTrader/desafio2/obj/Debug/net7.0/desafio2.AssemblyInfoInputs.cache
+/home/zumachxd/desafioInteliTrader/desafio2/obj/Debug/net7.0/desafio2.AssemblyInfo.cs
+/home/zumachxd/desafioInteliTrader/desafio2/obj/Debug/net7.0/desafio2.csproj.CoreCompileInputs.cache
+/home/zumachxd/desafioInteliTrader/desafio2/obj/Debug/net7.0/desafio2.dll
+/home/zumachxd/desafioInteliTrader/desafio2/obj/Debug/net7.0/refint/desafio2.dll
+/home/zumachxd/desafioInteliTrader/desafio2/obj/Debug/net7.0/desafio2.pdb
+/home/zumachxd/desafioInteliTrader/desafio2/obj/Debug/net7.0/desafio2.genruntimeconfig.cache
+/home/zumachxd/desafioInteliTrader/desafio2/obj/Debug/net7.0/ref/desafio2.dll
