@@ -6,6 +6,6 @@
 
 * Desafio 2 - Crie uma aplicação que criptografa/descriptografa arquivos utilizando Cifra de César.
 
-    Para executar as aplicações, é so ir na pasta respectiva de cada um, e executar o comando "donet run".
+    Para executar as aplicações, é so ir na pasta correspondete a cada um, e executar o comando "donet run".
 
     Ps: Tentei fazer todos, mas meu amigo, achei super complicado kkkkk.
